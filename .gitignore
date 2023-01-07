@@ -1,0 +1,5 @@
+#Files I do not want to push for now
+.bin/
+.bin-int/
+.vs/
+.user/
